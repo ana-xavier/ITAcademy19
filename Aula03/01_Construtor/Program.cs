@@ -40,5 +40,15 @@ class Program
         d3 = d1 + 2;
         d3.print();
 
+        //===================================================================
+        // --> Herança
+
+        Animal animal = new Animal();
+        Console.WriteLine(animal.toString());
+        animal.EmiteSom();
+
+        Felino gatinho = new Felino("Persa");
+        Console.WriteLine(gatinho.toString());
+        gatinho.EmiteSom();
     }
 }
