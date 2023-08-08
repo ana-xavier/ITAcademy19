@@ -1,0 +1,15 @@
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\bin\Debug\net6.0\01_Anulaveis.exe
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\bin\Debug\net6.0\01_Anulaveis.deps.json
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\bin\Debug\net6.0\01_Anulaveis.runtimeconfig.json
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\bin\Debug\net6.0\01_Anulaveis.dll
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\bin\Debug\net6.0\01_Anulaveis.pdb
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\obj\Debug\net6.0\01_Anulaveis.csproj.AssemblyReference.cache
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\obj\Debug\net6.0\01_Anulaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\obj\Debug\net6.0\01_Anulaveis.AssemblyInfoInputs.cache
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\obj\Debug\net6.0\01_Anulaveis.AssemblyInfo.cs
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\obj\Debug\net6.0\01_Anulaveis.csproj.CoreCompileInputs.cache
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\obj\Debug\net6.0\01_Anulaveis.dll
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\obj\Debug\net6.0\refint\01_Anulaveis.dll
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\obj\Debug\net6.0\01_Anulaveis.pdb
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\obj\Debug\net6.0\01_Anulaveis.genruntimeconfig.cache
+C:\Users\Anacarolina_Xavier\Documents\IT_Aulas\csharp\Aula02\01_Anulaveis\obj\Debug\net6.0\ref\01_Anulaveis.dll
