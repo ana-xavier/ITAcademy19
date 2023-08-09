@@ -38,5 +38,5 @@ public class Cliente
         for(int i = 0; i < listaDeParametros.Length; i++){
             Console.WriteLine("  param["+i+"]: " + listaDeParametros[i]);
         }
-    }   
+    }    
 }
